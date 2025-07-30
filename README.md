@@ -1,6 +1,6 @@
 # 🤖 Market Maker Bot
 
-A powerful and configurable crypto market-making bot that provides continuous bid/ask liquidity on decentralized and centralized exchanges. Designed for efficiency, inventory balancing, and dynamic market conditions.
+A powerful and configurable crypto market-making bot that provides continuous bid/ask liquidity on centralized exchanges. Designed for efficiency, inventory balancing, and dynamic market conditions.
 
 ---
 
